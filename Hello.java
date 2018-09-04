@@ -1,6 +1,7 @@
 package demo;
 public class Hello{  
 public static void main(String args[]){  
+  System.out.println("Odd");  
 int a[]={1,2,5,6,3,2};  
 System.out.println("Odd Numbers:");  
 for(int i=0;i<a.length;i++){  
